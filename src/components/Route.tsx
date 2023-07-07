@@ -1,3 +1,3 @@
 import React from 'react'
 
-export const Route = ({ path, component }: { path: string; component: React.ReactNode }) => null;
+export const Route = (props: { path: string; component: React.ReactNode }) => null;
